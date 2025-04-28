@@ -1,5 +1,5 @@
 Weather Gether Web
-Weather Gether Web is a simple and clean web app that allows users to search for any city and view real-time weather updates. It displays temperature, forecast, humidity, pressure, and wind speed in an attractive, user-friendly layout.
+Weather Gether Web is a simple and clean weather information application. It allows users to search for any city and instantly view real-time weather updates, including temperature, forecast, humidity, pressure, wind speed, and more. The design is user-friendly, featuring an intuitive search bar, weather icons, and detailed weather cards for extra information. Built with HTML, CSS, JavaScript, and Font Awesome icons, it offers a responsive and visually appealing experience
 
 Features
 🌍 Search weather by city name
