@@ -54,7 +54,7 @@ cityName.value="";
 
 
 const getWeatherData = async () => {
-    const weatherUrl = `http://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=b454c4400e02744a347073ac6bbb8c80`;
+    const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=b454c4400e02744a347073ac6bbb8c80`;
     try {
         const res = await fetch(weatherUrl);
         const data = await res.json();
