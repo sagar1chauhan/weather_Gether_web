@@ -41,6 +41,8 @@ input::placeholder{
 
 .weather-search{
     position: relative;
+   text-align: start;
+        align-items: start;
 }
 .weather-search i {
     position: absolute;
